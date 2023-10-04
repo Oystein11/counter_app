@@ -10,6 +10,7 @@ header, footer {
 main {
     display: flex;
     flex-direction: column;
+    background-image: url(tall.jpg);
 }
 
 .h1 {
