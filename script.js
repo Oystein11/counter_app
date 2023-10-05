@@ -32,6 +32,7 @@ function decrement (minus_button) {
 function reset (reset_button) {
     count = 0;
     console.log (count);
+    counter.textContent = count;
 }
 
 //Eventlistener med klikkfunksjon
